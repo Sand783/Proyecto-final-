@@ -1,0 +1,14 @@
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\bin\Debug\net10.0\Prueba 6.exe
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\bin\Debug\net10.0\Prueba 6.deps.json
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\bin\Debug\net10.0\Prueba 6.runtimeconfig.json
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\bin\Debug\net10.0\Prueba 6.dll
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\bin\Debug\net10.0\Prueba 6.pdb
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\Prueba 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\Prueba 6.AssemblyInfoInputs.cache
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\Prueba 6.AssemblyInfo.cs
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\Prueba 6.csproj.CoreCompileInputs.cache
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\Prueba 6.dll
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\refint\Prueba 6.dll
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\Prueba 6.pdb
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\Prueba 6.genruntimeconfig.cache
+C:\Users\Sandi Osorio\source\repos\Prueba 6\Prueba 6\obj\Debug\net10.0\ref\Prueba 6.dll
